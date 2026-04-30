@@ -81,7 +81,7 @@ I am a Software Engineering student with a strong focus on **Backend development
 ## 📊 Estadísticas / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo169&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="The_Alejo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="The_Alejo's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
