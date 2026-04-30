@@ -81,9 +81,9 @@ I am a Software Engineering student with a strong focus on **Backend development
 ## 📊 Estadísticas / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The_Alejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="The_Alejo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo169&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="The_Alejo's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The_Alejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
@@ -93,6 +93,7 @@ I am a Software Engineering student with a strong focus on **Backend development
 <div align="center">
   <p>¡Si quieres hablar sobre desarrollo, colaborar en un proyecto o simplemente charlar!<br>
   <i>If you want to talk about development, collaborate on a project, or just chat!</i></p>
+  <i>No Disponible / Not Available</i></p>
   <a href="mailto:tu_correo@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
