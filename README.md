@@ -2,10 +2,6 @@
 
 <h3 align="center">Freelance Developer | Software Engineering Student | Minecraft Plugin Creator</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=The_Alejo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <div align="center">
   <i>Selecciona tu idioma / Select your language:</i><br>
   <a href="#-versión-en-español">🇪🇸 Español</a> • <a href="#-english-version">🇺🇸 English</a>
