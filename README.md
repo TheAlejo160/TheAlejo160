@@ -12,36 +12,36 @@
 ## 🇪🇸 Versión en Español
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de Ingeniería de Software con un fuerte enfoque en el **desarrollo Backend**, en camino a convertirme en un desarrollador Fullstack. Me apasiona la lógica pura, la optimización de sistemas complejos y la creación de experiencias únicas dentro de los videojuegos.
+Soy estudiante de Ingeniería de Software con un fuerte enfoque en el **desarrollo Backend**, en camino a convertirme en un desarrollador Fullstack. Me apasionan profundamente los videojuegos (tanto jugarlos como entender cómo funcionan por dentro), la programación, la optimización y la creación de sistemas complejos para brindar experiencias únicas a los jugadores.
 
 - 🎓 **Estudios:** Estudiante de Ingeniería de Software.
 - 💻 **Especialidad:** Programación en Java, específicamente en la creación de plugins avanzados para Minecraft (Spigot/Paper) gestionando arquitecturas de múltiples clases en paralelo.
 - ⚡ **Hardware y Prototipado:** Amante de la electrónica; diseño proyectos y prototipos utilizando microcontroladores como **Arduino** y **ESP32**.
-- 🌱 **Actualmente:** Aprendiendo continuamente nuevas tecnologías web para fortalecer mi perfil Fullstack.
+- 🌱 **Actualmente:** Aprendiendo continuamente nuevas tecnologías web para fortalecer mi perfil Fullstack, y **a punto de comenzar a aprender SQL** para el manejo de bases de datos.
 
 ### 🚀 Proyectos Destacados
 * ⚔️ **[TeroGenshin]** - *Plugin Developer*: Mi recurso publicado más reciente. Es un plugin de Minecraft (1.17 a 1.19.4) que recrea el sistema de **reacciones elementales de Genshin Impact**, añadiendo mecánicas de combate completamente nuevas y funciones extra personalizadas.
-* 🏰 **[TempleCraft]** - *Owner & Lead Developer*: Creador y administrador principal de mi propio servidor de Minecraft. Encargado de la infraestructura, desarrollo de sistemas internos y gestión de la comunidad.
-* 🛡️ **[TeroCraft]** - *Co-Dueño*: Administración integral del servidor, toma de decisiones técnicas y apoyo directo en el desarrollo y mantenimiento del ecosistema.
-* ⚙️ **[ComuGamers]** - *Config / Técnico*: Encargado de la configuración avanzada de plugins, balanceo de modalidades y optimización del rendimiento del servidor.
+* 🏰 **[TempleCraft]** - *Owner & Lead Developer*: Creador y administrador principal de mi propio servidor de Minecraft. Fui el **encargado de configurar todo** desde cero, además de la infraestructura, desarrollo de sistemas internos y gestión de la comunidad.
+* 🛡️ **[TeroCraft]** - *Co-Dueño*: Administración integral del servidor, donde fui el **encargado del desarrollo de plugins específicos y la configuración tanto de plugins como de la modalidad** en general.
+* ⚙️ **[ComuGamers]** - *Config / Técnico*: Encargado de la **configuración de plugins, administración de tareas y gestión directa de una modalidad**.
 
 ---
 
 ## 🇺🇸 English Version
 
 ### 👨‍💻 About Me
-I am a Software Engineering student with a strong focus on **Backend development**, steadily working my way towards becoming a Fullstack developer. I am passionate about pure logic, optimizing complex systems, and creating unique experiences within video games.
+I am a Software Engineering student with a strong focus on **Backend development**, steadily working my way towards becoming a Fullstack developer. I have a deep passion for video games, pure logic, optimizing complex systems, and creating unique gaming experiences from the inside out.
 
 - 🎓 **Education:** Software Engineering student.
 - 💻 **Specialty:** Java programming, specifically creating advanced Minecraft plugins (Spigot/Paper) and managing multi-class architectures in parallel.
 - ⚡ **Hardware & Prototyping:** Electronics enthusiast; I design projects and prototypes using microcontrollers like **Arduino** and **ESP32**.
-- 🌱 **Currently:** Continuously learning new web technologies to strengthen my Fullstack skills.
+- 🌱 **Currently:** Continuously learning new web technologies to strengthen my Fullstack skills, and **about to start learning SQL** for database management.
 
 ### 🚀 Featured Projects
 * ⚔️ **[TeroGenshin]** - *Plugin Developer*: My most recently published resource. It's a Minecraft plugin (1.17 to 1.19.4) that recreates the **elemental reactions system from Genshin Impact**, adding completely new combat mechanics and custom extra features.
-* 🏰 **[TempleCraft]** - *Owner & Lead Developer*: Creator and lead administrator of my own Minecraft server. In charge of infrastructure, internal systems development, and community management.
-* 🛡️ **[TeroCraft]** - *Co-Owner*: Comprehensive server administration, technical decision-making, and direct support in the development and maintenance of the ecosystem.
-* ⚙️ **[ComuGamers]** - *Config / Tech*: In charge of advanced plugin configuration, gamemode balancing, and overall server performance optimization.
+* 🏰 **[TempleCraft]** - *Owner & Lead Developer*: Creator and lead administrator of my own Minecraft server. I was **in charge of configuring everything** from scratch, alongside infrastructure, internal systems development, and community management.
+* 🛡️ **[TeroCraft]** - *Co-Owner*: Comprehensive server administration. I was **in charge of developing specific custom plugins, as well as configuring plugins and managing the gamemode** overall.
+* ⚙️ **[ComuGamers]** - *Config / Tech*: In charge of **plugin configuration, task administration, and the complete management of a gamemode**.
 
 ---
 
@@ -84,6 +84,8 @@ I am a Software Engineering student with a strong focus on **Backend development
   <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="The_Alejo's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlejo160&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -93,7 +95,7 @@ I am a Software Engineering student with a strong focus on **Backend development
 <div align="center">
   <p>¡Si quieres hablar sobre desarrollo, colaborar en un proyecto o simplemente charlar!<br>
   <i>If you want to talk about development, collaborate on a project, or just chat!</i></p>
-  <i>No Disponible / Not Available</i></p>
+  <p><i>No Disponible / Not Available</i></p>
   <a href="mailto:tu_correo@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
