@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! / Hi there! I'm The_Alejo 👋</h1>
 
-<h3 align="center">Freelance Developer | Software Engineering Student | Minecraft Plugin Creator</h3>
+<h3 align="center">Freelance Developer | Software & Electronic Engineering Student | Minecraft Plugin Creator</h3>
 
 <div align="center">
   <i>Selecciona tu idioma / Select your language:</i><br>
@@ -12,11 +12,11 @@
 ## 🇪🇸 Versión en Español
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de Ingeniería de Software con un fuerte enfoque en el **desarrollo Backend**, en camino a convertirme en un desarrollador Fullstack. Me apasionan profundamente los videojuegos (tanto jugarlos como entender cómo funcionan por dentro), la programación, la optimización y la creación de sistemas complejos para brindar experiencias únicas a los jugadores.
+Soy estudiante de Ingeniería de Software e Ingeniería Electrónica con un fuerte enfoque en el **desarrollo Backend**, en camino a convertirme en un desarrollador Fullstack. Me apasionan profundamente los videojuegos (tanto jugarlos como entender cómo funcionan por dentro), la programación, la optimización y la creación de sistemas complejos para brindar experiencias únicas a los jugadores.
 
-- 🎓 **Estudios:** Estudiante de Ingeniería de Software.
+- 🎓 **Estudios:** Estudiante de Ingeniería de Software e Ingeniería Electrónica.
 - 💻 **Especialidad:** Programación en Java, específicamente en la creación de plugins avanzados para Minecraft (Spigot/Paper) gestionando arquitecturas de múltiples clases en paralelo.
-- ⚡ **Hardware y Electrónica:** Amante del hardware; además de diseñar prototipos con **Arduino** y **ESP32**, tengo conocimientos sólidos en ensamblaje de computadoras, configuración de servidores y sistemas NAS, reparaciones electrónicas básicas y reparación/mantenimiento de dispositivos móviles (específicamente iPhone).
+- ⚡ **Hardware y Electrónica:** Amante del hardware y los circuitos electrónicos. Además de diseñar prototipos con **Arduino** y **ESP32**, tengo amplios conocimientos en ensamblaje y repotenciación de computadoras y laptops, configuración de servidores y sistemas NAS. Realizo reparaciones electrónicas, trabajo con PCBs, mantenimiento de dispositivos móviles (específicamente iPhone), consolas (reparación básica y repotenciación) y mandos de videojuegos (reparaciones generales, cambio de joysticks, botones, etc.).
 - 🌱 **Actualmente:** Aprendiendo continuamente nuevas tecnologías web para fortalecer mi perfil Fullstack, y **a punto de comenzar a aprender SQL** para el manejo de bases de datos.
 
 ### 🚀 Proyectos Destacados
@@ -30,11 +30,11 @@ Soy estudiante de Ingeniería de Software con un fuerte enfoque en el **desarrol
 ## 🇺🇸 English Version
 
 ### 👨‍💻 About Me
-I am a Software Engineering student with a strong focus on **Backend development**, steadily working my way towards becoming a Fullstack developer. I have a deep passion for video games, pure logic, optimizing complex systems, and creating unique gaming experiences from the inside out.
+I am a Software and Electronic Engineering student with a strong focus on **Backend development**, steadily working my way towards becoming a Fullstack developer. I have a deep passion for video games, pure logic, optimizing complex systems, and creating unique gaming experiences from the inside out.
 
-- 🎓 **Education:** Software Engineering student.
+- 🎓 **Education:** Software and Electronic Engineering student.
 - 💻 **Specialty:** Java programming, specifically creating advanced Minecraft plugins (Spigot/Paper) and managing multi-class architectures in parallel.
-- ⚡ **Hardware & Electronics:** Hardware enthusiast; besides designing prototypes with **Arduino** and **ESP32**, I have solid knowledge in PC building, server and NAS configuration, basic electronic repairs, and mobile device repair/maintenance (specifically iPhones).
+- ⚡ **Hardware & Electronics:** Hardware and electronic circuits enthusiast. Besides designing prototypes with **Arduino** and **ESP32**, I have extensive knowledge in building and upgrading PCs and laptops, as well as server and NAS configuration. I perform electronic repairs, work with PCBs, and handle the repair and maintenance of mobile devices (specifically iPhones), consoles (basic repair and upgrading), and gaming controllers (general repairs, joystick and button replacement, etc.).
 - 🌱 **Currently:** Continuously learning new web technologies to strengthen my Fullstack skills, and **about to start learning SQL** for database management.
 
 ### 🚀 Featured Projects
