@@ -16,7 +16,7 @@ Soy estudiante de Ingeniería de Software con un fuerte enfoque en el **desarrol
 
 - 🎓 **Estudios:** Estudiante de Ingeniería de Software.
 - 💻 **Especialidad:** Programación en Java, específicamente en la creación de plugins avanzados para Minecraft (Spigot/Paper) gestionando arquitecturas de múltiples clases en paralelo.
-- ⚡ **Hardware y Prototipado:** Amante de la electrónica; diseño proyectos y prototipos utilizando microcontroladores como **Arduino** y **ESP32**.
+- ⚡ **Hardware y Electrónica:** Amante del hardware; además de diseñar prototipos con **Arduino** y **ESP32**, tengo conocimientos sólidos en ensamblaje de computadoras, configuración de servidores y sistemas NAS, reparaciones electrónicas básicas y reparación/mantenimiento de dispositivos móviles (específicamente iPhone).
 - 🌱 **Actualmente:** Aprendiendo continuamente nuevas tecnologías web para fortalecer mi perfil Fullstack, y **a punto de comenzar a aprender SQL** para el manejo de bases de datos.
 
 ### 🚀 Proyectos Destacados
@@ -34,7 +34,7 @@ I am a Software Engineering student with a strong focus on **Backend development
 
 - 🎓 **Education:** Software Engineering student.
 - 💻 **Specialty:** Java programming, specifically creating advanced Minecraft plugins (Spigot/Paper) and managing multi-class architectures in parallel.
-- ⚡ **Hardware & Prototyping:** Electronics enthusiast; I design projects and prototypes using microcontrollers like **Arduino** and **ESP32**.
+- ⚡ **Hardware & Electronics:** Hardware enthusiast; besides designing prototypes with **Arduino** and **ESP32**, I have solid knowledge in PC building, server and NAS configuration, basic electronic repairs, and mobile device repair/maintenance (specifically iPhones).
 - 🌱 **Currently:** Continuously learning new web technologies to strengthen my Fullstack skills, and **about to start learning SQL** for database management.
 
 ### 🚀 Featured Projects
