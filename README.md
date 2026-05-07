@@ -81,9 +81,9 @@ I am a Software and Electronic Engineering student with a strong focus on **Back
 ## 📊 Estadísticas / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TheAlejo160's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="TheAlejo160's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlejo160&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
