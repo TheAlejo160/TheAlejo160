@@ -16,8 +16,8 @@ Soy estudiante de Ingeniería de Software e Ingeniería Electrónica con un fuer
 
 - 🎓 **Estudios:** Estudiante de Ingeniería de Software e Ingeniería Electrónica.
 - 💻 **Especialidad:** Programación en Java para la creación de plugins avanzados de Minecraft (Spigot/Paper), y **desarrollo de aplicaciones móviles nativas** para ecosistemas iOS y Android.
-- ⚡ **Hardware y Electrónica:** Amante del hardware y los circuitos electrónicos. Además de diseñar prototipos con **Arduino** y **ESP32**, tengo amplios conocimientos en ensamblaje y repotenciación de computadoras y laptops, configuración de servidores y sistemas NAS. Realizo reparaciones electrónicas, trabajo con PCBs, mantenimiento de dispositivos móviles (específicamente iPhone), consolas (reparación básica y repotenciación) y mandos de videojuegos (reparaciones generales, cambio de joysticks, botones, etc.).
-- 🌱 **Actualmente:** Desarrollando soluciones móviles nativas, aprendiendo continuamente nuevas tecnologías web para fortalecer mi perfil Fullstack, y **a punto de comenzar a aprender SQL** para el manejo de bases de datos.
+- ⚡ **Hardware, Electrónica y Sistemas:** Amante del hardware y los circuitos electrónicos. Además de diseñar prototipos con **Arduino** y **ESP32**, tengo amplios conocimientos en ensamblaje y repotenciación de computadoras y laptops, así como en la configuración de sistemas NAS y servidores. Poseo conocimientos fundamentales y prácticos en **Linux**, utilizándolo como base para montar y administrar proyectos de **HomeLab**. Realizo reparaciones electrónicas, trabajo con PCBs, mantenimiento de dispositivos móviles (específicamente iPhone), consolas (reparación básica y repotenciación) y mandos de videojuegos (reparaciones generales, cambio de joysticks, botones, etc.).
+- 🌱 **Actualmente:** Desarrollando soluciones móviles nativas, gestionando mi entorno HomeLab, aprendiendo continuamente nuevas tecnologías web para fortalecer mi perfil Fullstack, y **a punto de comenzar a aprender SQL** para el manejo de bases de datos.
 
 ### 🚀 Proyectos Destacados
 * ☁️ **[TheAlejoCloud]** - *Lead Developer*: Proyecto de almacenamiento y gestión en la nube con aplicaciones móviles desarrolladas de forma independiente y completamente **nativa** para **iOS (Swift)** y **Android (Kotlin)**. Está pensado como un software para entornos de **HomeLab** o como la arquitectura base de un proyecto a mayor escala. Permite la conexión directa a un servidor casero bajo **Linux utilizando CasaOS y FileBrowser**, ofreciendo soporte para la creación y administración de distintas cuentas de usuario en el mismo sistema.
@@ -35,8 +35,8 @@ I am a Software and Electronic Engineering student with a strong focus on **Back
 
 - 🎓 **Education:** Software and Electronic Engineering student.
 - 💻 **Specialty:** Java programming for advanced Minecraft plugins (Spigot/Paper), and **native mobile app development** for iOS and Android ecosystems.
-- ⚡ **Hardware & Electronics:** Hardware and electronic circuits enthusiast. Besides designing prototypes with **Arduino** and **ESP32**, I have extensive knowledge in building and upgrading PCs and laptops, as well as server and NAS configuration. I perform electronic repairs, work with PCBs, and handle the repair and maintenance of mobile devices (specifically iPhones), consoles (basic repair and upgrading), and gaming controllers (general repairs, joystick and button replacement, etc.).
-- 🌱 **Currently:** Developing native mobile solutions, continuously learning new web technologies to strengthen my Fullstack skills, and **about to start learning SQL** for database management.
+- ⚡ **Hardware, Electronics & Systems:** Hardware and electronic circuits enthusiast. Besides designing prototypes with **Arduino** and **ESP32**, I have extensive knowledge in building and upgrading PCs and laptops, as well as server and NAS configuration. I have practical, foundational knowledge of **Linux**, using it as the backbone for building and managing **HomeLab** projects. I perform electronic repairs, work with PCBs, and handle the repair and maintenance of mobile devices (specifically iPhones), consoles (basic repair and upgrading), and gaming controllers (general repairs, joystick and button replacement, etc.).
+- 🌱 **Currently:** Developing native mobile solutions, managing my HomeLab environment, continuously learning new web technologies to strengthen my Fullstack skills, and **about to start learning SQL** for database management.
 
 ### 🚀 Featured Projects
 * ☁️ **[TheAlejoCloud]** - *Lead Developer*: A cloud storage and management ecosystem featuring separate, fully **native** mobile applications built for **iOS (Swift)** and **Android (Kotlin)**. Designed for **HomeLab** environments or as a foundation for larger-scale projects, it connects directly to a home server running **Linux with CasaOS and FileBrowser**, supporting multi-user creation and deployment within the same system.
@@ -67,6 +67,12 @@ I am a Software and Electronic Engineering student with a strong focus on **Back
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### **Sistemas Operativos & Servidores / OS & Servers**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 #### **Entornos y Herramientas / IDEs & Tools**
