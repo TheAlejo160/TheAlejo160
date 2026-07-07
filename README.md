@@ -1,133 +1,252 @@
-<h1 align="center">¡Hola! / Hi there! I'm The_Alejo 👋</h1>
-
-<h3 align="center">Freelance Developer | Software & Electronic Engineering Student | Fullstack Web & Mobile Developer | Minecraft Plugin Creator</h3>
-
 <div align="center">
-  <i>Selecciona tu idioma / Select your language:</i><br>
-  <a href="#-versión-en-español">🇪🇸 Español</a> • <a href="#-english-version">🇺🇸 English</a>
-</div>
-
----
-
-## 🇪🇸 Versión en Español
-
-### 👨‍💻 Sobre mí
-Soy estudiante de Ingeniería de Software e Ingeniería Electrónica con un fuerte enfoque en el **desarrollo Backend, Móvil y Web**, en camino a consolidarme como un desarrollador Fullstack. Me apasionan profundamente los videojuegos (tanto jugarlos como entender cómo funcionan por dentro), la programación, la optimización y la creación de sistemas complejos para brindar experiencias únicas a los usuarios y jugadores.
-
-- 🎓 **Estudios:** Estudiante de Ingeniería de Software e Ingeniería Electrónica.
-- 💻 **Especialidad:** **Desarrollo de páginas web multipropósito y multifuncionales**, programación en Java para la creación de plugins avanzados de Minecraft (Spigot/Paper), y desarrollo de aplicaciones móviles nativas para ecosistemas iOS y Android.
-- 💼 **Servicios:** Ofrezco servicios de desarrollo web a medida, abarcando desde el diseño de interfaces modernas hasta la implementación de bases de datos y lógica del servidor, adaptándome a las necesidades específicas de cada cliente o proyecto.
-- 🖥️ **Sistemas Operativos:** Desarrollo y opero fluidamente en entornos **macOS**, **Windows** y **Linux**. Destaco mi uso práctico de **Linux** como sistema base fundamental para montar, administrar y escalar servidores caseros y proyectos de **HomeLab**.
-- ⚡ **Hardware y Electrónica:** Amante del hardware y los circuitos electrónicos. Además de diseñar prototipos con **Arduino** y **ESP32**, tengo amplios conocimientos en ensamblaje y repotenciación de computadoras y laptops, así como en la configuración de sistemas NAS. Realizo reparaciones electrónicas, trabajo con PCBs, mantenimiento de dispositivos móviles (específicamente iPhone), consolas (reparación básica y repotenciación) y mandos de videojuegos (reparaciones generales, cambio de joysticks, botones, etc.).
-- 🌱 **Actualmente:** Desarrollando soluciones web y móviles nativas, gestionando mi entorno HomeLab en Linux y escalando mis conocimientos en bases de datos con tecnologías como **SQLite**.
-
-### 🚀 Proyectos Destacados
-* ☁️ **[TheAlejoCloud]** - *Lead Developer*: Proyecto de almacenamiento y gestión en la nube con aplicaciones móviles desarrolladas de forma independiente y completamente **nativa** para **iOS (Swift)** y **Android (Kotlin)**. Está pensado como un software para entornos de **HomeLab** o como la arquitectura base de un proyecto a mayor escala. Permite la conexión directa a un servidor casero bajo **Linux utilizando CasaOS y FileBrowser**, ofreciendo soporte para la creación y administración de distintas cuentas de usuario en el mismo sistema.
-* ⚔️ **[TeroGenshin]** - *Plugin Developer*: Plugin de Minecraft (1.17 a 1.19.4) que recrea el sistema de **reacciones elementales de Genshin Impact**, añadiendo mecánicas de combate completamente nuevas y funciones extra personalizadas.
-* 🏰 **[TempleCraft]** - *Owner & Lead Developer*: Creador y administrador principal de mi propio servidor de Minecraft. Fui el **encargado de configurar todo** desde cero, además de la infraestructura, desarrollo de sistemas internos y gestión de la comunidad.
-* 🛡️ **[TeroCraft]** - *Co-Dueño*: Administración integral del servidor, donde fui el **encargado del desarrollo de plugins específicos y la configuración tanto de plugins como de la modalidad** en general.
-* ⚙️ **[ComuGamers]** - *Config / Técnico*: Encargado de la **configuración de plugins, administración de tareas y gestión directa de una modalidad**.
-
----
-
-## 🇺🇸 English Version
-
-### 👨‍💻 About Me
-I am a Software and Electronic Engineering student with a strong focus on **Backend, Mobile, and Web development**, steadily working my way towards becoming a Fullstack developer. I have a deep passion for video games, pure logic, optimizing complex systems, and creating unique experiences for users and players from the inside out.
-
-- 🎓 **Education:** Software and Electronic Engineering student.
-- 💻 **Specialty:** **Multipurpose and multifunctional web development**, Java programming for advanced Minecraft plugins (Spigot/Paper), and native mobile app development for iOS and Android ecosystems.
-- 💼 **Services:** I offer custom web development services, ranging from modern interface design to server logic and database implementation, adapting to the specific needs of each client or project.
-- 🖥️ **Operating Systems:** I work fluently across **macOS**, **Windows**, and **Linux** development environments. I highlight my practical use of **Linux** as the fundamental backbone for building, managing, and scaling home servers and **HomeLab** projects.
-- ⚡ **Hardware & Electronics:** Hardware and electronic circuits enthusiast. Besides designing prototypes with **Arduino** and **ESP32**, I have extensive knowledge in building and upgrading PCs and laptops, as well as server and NAS configuration. I perform electronic repairs, work with PCBs, and handle the repair and maintenance of mobile devices (specifically iPhones), consoles (basic repair and upgrading), and gaming controllers (general repairs, joystick and button replacement, etc.).
-- 🌱 **Currently:** Developing web and native mobile solutions, managing my Linux HomeLab environment, and scaling my database knowledge with technologies like **SQLite**.
-
-### 🚀 Featured Projects
-* ☁️ **[TheAlejoCloud]** - *Lead Developer*: A cloud storage and management ecosystem featuring separate, fully **native** mobile applications built for **iOS (Swift)** and **Android (Kotlin)**. Designed for **HomeLab** environments or as a foundation for larger-scale projects, it connects directly to a home server running **Linux with CasaOS and FileBrowser**, supporting multi-user creation and deployment within the same system.
-* ⚔️ **[TeroGenshin]** - *Plugin Developer*: A Minecraft plugin (1.17 to 1.19.4) that recreates the **elemental reactions system from Genshin Impact**, adding completely new combat mechanics and custom extra features.
-* 🏰 **[TempleCraft]** - *Owner & Lead Developer*: Creator and lead administrator of my own Minecraft server. I was **in charge of configuring everything** from scratch, alongside infrastructure, internal systems development, and community management.
-* 🛡️ **[TeroCraft]** - *Co-Owner*: Comprehensive server administration. I was **in charge of developing specific custom plugins, as well as configuring plugins and managing the gamemode** overall.
-* ⚙️ **[ComuGamers]** - *Config / Tech*: In charge of **plugin configuration, task administration, and the complete management of a gamemode**.
-
----
-
-## 🛠️ Stack Tecnológico / Tech Stack
-
-#### **Sistemas Operativos & Servidores / OS & Servers**
-<p align="left">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
-#### **Desarrollo Web, Bases de Datos & Otros / Web Development, Databases & Other**
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
-
-#### **Lenguajes Principales (Backend & Sistemas) / Main Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-#### **Desarrollo Móvil / Mobile Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
-
-#### **Entornos y Herramientas / IDEs & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-</p>
-
-#### **Microcontroladores / Microcontrollers & Electronics**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-</p>
-
----
-
-## 📊 Estadísticas / GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="TheAlejo160's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7F52FF&height=150&section=header&text=The_Alejo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=800&lines=Software+%26+Electronic+Engineering;Fullstack+Web+%26+Mobile+Developer;Cloud+%26+Backend+Architect;Bilingual+(EN%2FES)+Developer" alt="Typing SVG" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlejo160&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+  <a href="#"><img src="https://img.shields.io/badge/B.S._Software_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Academic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/B.S._Electronic_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Academic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Lima,_Peru-0D1117?style=for-the-badge&logo=googlemaps&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Location" /></a>
+  
+  <br/>
+
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Premium_Access-0D1117?style=for-the-badge&logo=dev.to&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="LinkedIn" /></a>
+  <a href="mailto:tu_correo@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=minutemailer&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Email" /></a>
+  <a href="https://github.com/TheAlejo160"><img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="GitHub" /></a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=TheAlejo160&label=Profile%20Views&color=7F52FF&style=for-the-badge&base=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TheAlejo160?label=Followers&style=for-the-badge&color=1A1B26&labelColor=0D1117&logo=github&logoColor=7F52FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/TheAlejo160?label=Stars&style=for-the-badge&color=1A1B26&labelColor=0D1117&logo=apachespark&logoColor=7F52FF" alt="Stars" />
 </div>
 
 ---
 
-## 📫 ¿Cómo contactarme? / How to reach me?
+## 👨‍💻 About / Sobre mí
+
+### 🇺🇸 English
+I am a **Software and Electronic Engineering** student operating at the intersection of complex hardware and high-performance software. With a rigorous focus on **Backend, Mobile, and Web Development**, I architect enterprise-grade, multipurpose platforms and native mobile ecosystems. My engineering philosophy revolves around pure logic, system optimization, and product-minded development—building robust infrastructures from the Linux kernel/HomeLab level up to seamless UI/UX endpoints. Beyond traditional full-stack development, I possess applied expertise in **AI/ML logic integration**, utilizing Python and embedded systems (ESP32/Arduino) to deploy intelligent, data-driven solutions and complex algorithmic mechanics.
+
+### 🇪🇸 Español
+Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operando en la intersección entre hardware complejo y software de alto rendimiento. Con un enfoque riguroso en **Desarrollo Backend, Móvil y Web**, diseño plataformas empresariales multipropósito y ecosistemas móviles nativos. Mi filosofía de ingeniería se centra en la lógica pura, la optimización de sistemas y el desarrollo orientado a productos, construyendo infraestructuras robustas desde el nivel del kernel de Linux/HomeLab hasta los endpoints de UI/UX. Más allá del desarrollo full-stack tradicional, poseo experiencia aplicada en la **integración de lógica de IA/ML**, utilizando Python y sistemas integrados (ESP32/Arduino) para implementar soluciones inteligentes basadas en datos y mecánicas algorítmicas complejas.
+
+> **Open To / Abierto a:** Software Engineering Roles, Full Stack Development, Native Mobile Architecture (iOS/Android), HomeLab/Cloud Infrastructure Projects, and Open Source Contributions.
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,ts,js,swift,kotlin,bash&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+### Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,sqlite,mysql,postgres,firebase&theme=dark" alt="Backend and Databases" />
+  </a>
+</p>
+
+### Cloud, DevOps & Tooling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows,git,github,maven,gradle,arduino,idea&theme=dark" alt="DevOps and Tools" />
+  </a>
+</p>
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details (EN / ES) |
+| :--- | :--- | :--- |
+| **Algorithmic Logic** | Advanced | Implementation of predictive reaction systems and complex state machines. / *Implementación de sistemas de reacción predictiva.* |
+| **Embedded AI** | Intermediate | Sensor data processing and automated logic via ESP32/Arduino microcontrollers. / *Procesamiento de datos con microcontroladores.* |
+| **Data Architecture** | Advanced | Structuring large datasets using SQLite/NoSQL for high-speed query optimization. / *Estructuración y optimización de grandes volúmenes de datos.* |
+| **Python Scripting** | Advanced | Automation, data parsing, and backend model integration. / *Automatización, análisis de datos e integración de modelos.* |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+  <summary><b>☁️ TheAlejoCloud (Native Mobile & Cloud Storage Ecosystem)</b></summary>
+  <br/>
+  
+  A cloud storage and management ecosystem featuring separate, fully native mobile applications. Designed for HomeLab environments or as a foundation for enterprise-scale projects, it connects directly to a home server running Linux with CasaOS and FileBrowser.
+
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | Swift (iOS), Kotlin (Android), Linux, CasaOS, FileBrowser |
+  | **Scale** | HomeLab to Enterprise Architecture |
+  | **Performance** | High-efficiency native mobile compilation |
+  | **Security** | Multi-user Auth & Isolated Directory Deployment |
+  | **Impact** | Seamless cross-platform self-hosted cloud management |
+  | **Repository** | [Private / Enterprise Request](#) |
+
+  *Professional Detail:* Engineered the complete pipeline from the underlying Linux server infrastructure to the native frontend clients. Handled raw REST API integrations, socket management, and asynchronous data streaming to ensure zero-latency file access and multi-user scaling.
+</details>
+
+<br/>
+
+<details>
+  <summary><b>⚔️ TeroGenshin (Advanced Java Combat Engine)</b></summary>
+  <br/>
+  
+  A highly optimized backend plugin for Minecraft (1.17 - 1.19.4) that fundamentally rewrites core engine mechanics to recreate the elemental reaction system from Genshin Impact.
+
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | Java, Spigot/Paper API, Maven, NMS |
+  | **Scale** | Massive Multiplayer Server Integration |
+  | **Performance** | O(1) Memory caching for elemental particle ticks |
+  | **Security** | Anti-exploit hit registration verification |
+  | **Impact** | Revolutionized PvP/PvE combat mechanics for thousands of players |
+  | **Repository** | [View Implementation](#) |
+
+  *Professional Detail:* Developed complex algorithmic matrices to handle multi-threaded entity state changes without disrupting the main server tick thread. Applied predictive physics calculations for particle rendering and elemental state compounding.
+</details>
+
+<br/>
+
+<details>
+  <summary><b>🏰 TempleCraft & TeroCraft (Server Architect & Lead Developer)</b></summary>
+  <br/>
+  
+  Comprehensive infrastructure deployment, custom software development, and community management for large-scale gaming networks.
+
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | Java, Linux (Debian/Ubuntu), Bash, SQL |
+  | **Scale** | Multi-node proxy network |
+  | **Performance** | Automated load balancing and GC optimization |
+  | **Security** | DDoS mitigation & strict packet filtering |
+  | **Impact** | Sustained high-concurrency player bases with 99.9% uptime |
+  | **Repository** | [Proprietary](#) |
+
+  *Professional Detail:* Acted as the Lead DevOps Engineer and Systems Architect. Designed the entire CI/CD pipeline for plugin updates, managed secure database clusters, and wrote bespoke software to handle unique gamemode logic, resulting in highly profitable and stable network environments.
+</details>
+
+---
+
+## 💼 Experience
+
+| Job Title / Role | Company / Network | Date Range |
+| :--- | :--- | :--- |
+| **Freelance Software Developer** | Independent Client Contracts | *Ongoing* |
+| **Lead Developer & Owner** | TempleCraft Network | *Previous* |
+| **Co-Owner & Systems Architect** | TeroCraft Network | *Previous* |
+| **Technical Config / Developer** | ComuGamers | *Previous* |
+
+**Professional Scope of Work (Freelance Developer):**
+*   Architect and develop custom, modern web applications from UI/UX design to robust backend logic.
+*   Deploy native iOS (Swift) and Android (Kotlin) solutions optimized for memory efficiency and UX.
+*   Manage Linux-based deployment environments, CI/CD pipelines, and NAS/HomeLab hardware configurations.
+*   Design and repair complex electronic PCBs, providing micro-soldering and hardware component upgrades.
+
+**Skills:** `Fullstack Development` `Native Mobile` `Systems Administration` `Java/C++` `Hardware Engineering`
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details (EN / ES) |
+| :---: | :--- |
+| 🌟 **System Architecture** | Built a fully functional, self-hosted cloud ecosystem supporting native cross-platform clients. / *Creación de ecosistema en la nube self-hosted con clientes nativos.* |
+| ⚙️ **Hardware Mastery** | Designed custom ESP32/Arduino prototypes and executed advanced PCB electronic repairs. / *Prototipado ESP32/Arduino y reparación avanzada de PCBs.* |
+| 📈 **Performance Tuning** | Maintained 20TPS (maximum efficiency) on highly saturated Java game servers using custom garbage collection flags and multi-threading algorithms. / *Optimización de servidores Java al máximo rendimiento.* |
+
+---
+
+## 📜 Certifications
 
 <div align="center">
-  <p>¡Si quieres hablar sobre desarrollo, colaborar en un proyecto o consultar mis servicios web!<br>
-  <i>If you want to talk about development, collaborate on a project, or ask about my web services!</i></p>
-  <a href="mailto:tu_correo@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discordapp.com/users/the_alejo">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-0D1117?style=for-the-badge&logo=amazonaws&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle-Java_SE_Developer-0D1117?style=for-the-badge&logo=oracle&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Oracle" />
+  <br/>
+  <img src="https://img.shields.io/badge/NPTEL-Software_Engineering-0D1117?style=for-the-badge&logo=swiggy&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Fundamentals-0D1117?style=for-the-badge&logo=cisco&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Cisco" />
 </div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Solver-0D1117?style=for-the-badge&logo=leetcode&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="GFG" /></a>
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-0D1117?style=for-the-badge&logo=hackerrank&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Advanced_Division-0D1117?style=for-the-badge&logo=codechef&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="CodeChef" /></a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&icon_color=7F52FF&border_color=30363d&v=1" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlejo160&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakNum=A9B1D6&sideLabels=7F52FF&dates=A9B1D6&currStreakLabel=7F52FF" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&v=1" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheAlejo160&theme=dracula&column=6&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAlejo160&bg_color=0D1117&color=A9B1D6&line=7F52FF&point=FFFFFF&area=true&hide_border=true&title_color=7F52FF" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheAlejo160/TheAlejo160/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Current_Status:
+  Learning: 
+    - "Advanced Machine Learning architectures (Python)"
+    - "Deep-level iOS reverse engineering (Swift)"
+  Building: 
+    - "Enterprise-scale native mobile cloud platforms"
+    - "HomeLab microservices running on custom Linux kernels"
+  Exploring:
+    - "Complex data structures in C/C++"
+    - "Embedded systems optimization (IoT)"
+  Open_To:
+    - "Full-time Software Engineering roles"
+    - "High-impact Open Source collaboration"
+    - "Freelance architectural consulting"
