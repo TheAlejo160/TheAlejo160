@@ -311,7 +311,7 @@ Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operan
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TheAlejo160&theme=dracula&column=7&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TheAlejo160&theme=discord&column=7&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <br/>
