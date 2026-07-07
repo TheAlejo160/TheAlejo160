@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Se actualiza cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
+
+# AQUI ESTA LA MAGIA: Le damos permiso al bot para guardar la imagen
+permissions:
+  contents: write
 
 jobs:
   generate:
