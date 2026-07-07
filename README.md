@@ -295,11 +295,11 @@ Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operan
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAlejo160&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&icon_color=7F52FF&v=10&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TheAlejo160&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&icon_color=7F52FF" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=TheAlejo160&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakNum=A9B1D6&sideLabels=7F52FF&dates=A9B1D6&currStreakLabel=7F52FF" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&v=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6" alt="Top Languages" />
 </div>
 
 <br/>
@@ -311,8 +311,10 @@ Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operan
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheAlejo160&theme=dracula&column=7&margin-w=15&no-frame=true&no-bg=true&v=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheAlejo160&theme=dracula&column=7&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
+
+<br/>
 
 ---
 
