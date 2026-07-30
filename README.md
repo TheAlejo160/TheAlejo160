@@ -306,18 +306,6 @@ Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operan
 
 ---
 
-## 🏆 GitHub Trophies
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <br/>
