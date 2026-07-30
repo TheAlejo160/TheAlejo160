@@ -288,8 +288,6 @@ Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operan
 
 ---
 
----
-
 ## 📊 GitHub Analytics
 
 <br/>
