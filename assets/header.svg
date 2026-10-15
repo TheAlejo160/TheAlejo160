@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Rodrigo Alejandro Apcho - The_Alejo - Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B2E"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="0.5" stop-color="#B86BFF"/>
+      <stop offset="1" stop-color="#00C2FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7F52FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7F52FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <style>
+    .wave1 { animation: drift 14s linear infinite; }
+    .wave2 { animation: drift 9s linear infinite reverse; }
+    .orb   { animation: float 7s ease-in-out infinite; transform-origin: center; }
+    .orb2  { animation: float 9s ease-in-out infinite reverse; }
+    .title { animation: rise 1s cubic-bezier(.2,.8,.2,1) both; font: 800 54px -apple-system, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; letter-spacing: -1px; }
+    .sub   { animation: rise 1s .25s cubic-bezier(.2,.8,.2,1) both; font: 600 22px -apple-system, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }
+    .tag   { animation: rise 1s .5s cubic-bezier(.2,.8,.2,1) both; font: 600 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1px; }
+    .dot   { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+    @keyframes rise  { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <circle class="orb"  cx="180"  cy="70"  r="160" fill="url(#glow)"/>
+  <circle class="orb2" cx="1040" cy="210" r="190" fill="url(#glow)" opacity="0.7"/>
+
+  <!-- waves: path is 2400 wide (two identical periods) so the -1200px loop is seamless -->
+  <g opacity="0.35" class="wave1">
+    <path fill="url(#brand)" d="M0 230 C150 200 300 260 450 230 S750 200 900 230 S1050 260 1200 230 S1500 200 1650 230 S1950 260 2100 230 S2250 200 2400 230 V280 H0Z"/>
+  </g>
+  <g opacity="0.6" class="wave2">
+    <path fill="url(#brand)" d="M0 250 C200 230 400 275 600 250 S1000 230 1200 250 S1600 275 1800 250 S2200 230 2400 250 V280 H0Z"/>
+  </g>
+
+  <text x="600" y="118" text-anchor="middle" fill="#ffffff" class="title">Rodrigo Alejandro Apcho</text>
+  <text x="600" y="158" text-anchor="middle" fill="url(#brand)" class="sub">Software Engineer · AI Integration · Full-Stack and Native Mobile</text>
+  <g class="tag">
+    <circle class="dot" cx="470" cy="195" r="5" fill="#2EA043"/>
+    <text x="484" y="200" fill="#A9B1D6">THE_ALEJO  ·  LIMA, PERU  ·  OPEN TO WORK</text>
+  </g>
+</svg>

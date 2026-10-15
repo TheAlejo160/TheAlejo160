@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="AdaptaPE - Internet es para todos. Nada debería limitarte.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A1B5E"/>
+      <stop offset="0.55" stop-color="#4B2BB8"/>
+      <stop offset="1" stop-color="#0077B6"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .t   { font-family: -apple-system, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }
+    .h   { font-weight: 800; font-size: 72px; letter-spacing: -2px; animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+    .p   { font-weight: 500; font-size: 24px; animation: rise .9s .2s cubic-bezier(.2,.8,.2,1) both; }
+    .s   { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.5px; animation: rise .9s .4s cubic-bezier(.2,.8,.2,1) both; }
+    .shine { animation: sweep 5s ease-in-out infinite; }
+    .bar { transform-box: fill-box; transform-origin: center bottom; animation: eq 1.1s ease-in-out infinite; }
+    .b2 { animation-delay: .15s; } .b3 { animation-delay: .3s; } .b4 { animation-delay: .45s; } .b5 { animation-delay: .6s; }
+    .chip { animation: pop .5s cubic-bezier(.3,1.6,.5,1) both; transform-box: fill-box; transform-origin: center; }
+    .c1{animation-delay:.6s}.c2{animation-delay:.7s}.c3{animation-delay:.8s}.c4{animation-delay:.9s}.c5{animation-delay:1s}.c6{animation-delay:1.1s}.c7{animation-delay:1.2s}
+    .cursor { animation: path 6s ease-in-out infinite; }
+    .ring { transform-box: fill-box; transform-origin: center; animation: dwell 6s ease-out infinite; }
+    @keyframes rise  { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes sweep { 0% { transform: translateX(-700px); } 60%,100% { transform: translateX(1300px); } }
+    @keyframes eq    { 0%,100% { transform: scaleY(.35); } 50% { transform: scaleY(1); } }
+    @keyframes pop   { from { opacity: 0; transform: scale(.3); } to { opacity: 1; transform: scale(1); } }
+    @keyframes path  { 0% { transform: translate(0,0); } 30% { transform: translate(-90px,40px); } 55%,75% { transform: translate(-40px,-30px); } 100% { transform: translate(0,0); } }
+    @keyframes dwell { 0%,55% { opacity: 0; transform: scale(.4); } 62% { opacity: .9; } 75% { opacity: 0; transform: scale(1.6); } 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect class="shine" x="0" y="0" width="500" height="300" fill="url(#shine)"/>
+    <circle cx="1080" cy="40" r="180" fill="#00C2FF" opacity="0.12"/>
+    <circle cx="120" cy="300" r="160" fill="#B86BFF" opacity="0.15"/>
+  </g>
+
+  <text x="70" y="120" fill="#ffffff" class="t h">AdaptaPE</text>
+  <text x="72" y="166" fill="#E6E1FF" class="t p">Internet es para todos. Nada debería limitarte.</text>
+  <text x="72" y="206" fill="#BFD9FF" class="s">VOICE · COLOR FILTERS · KINETIC MOUSE · DWELL CLICK · MADE IN PERU</text>
+
+  <!-- the 7 colour-blind profiles -->
+  <g transform="translate(72 236)">
+    <circle class="chip c1" cx="10"  cy="10" r="10" fill="#E5484D"/>
+    <circle class="chip c2" cx="38"  cy="10" r="10" fill="#F76B15"/>
+    <circle class="chip c3" cx="66"  cy="10" r="10" fill="#FFC53D"/>
+    <circle class="chip c4" cx="94"  cy="10" r="10" fill="#46A758"/>
+    <circle class="chip c5" cx="122" cy="10" r="10" fill="#00C2FF"/>
+    <circle class="chip c6" cx="150" cy="10" r="10" fill="#8E4EC6"/>
+    <circle class="chip c7" cx="178" cy="10" r="10" fill="#8B8D98"/>
+    <text x="204" y="15" fill="#E6E1FF" class="t" font-size="14" font-weight="600">7 color-blind profiles</text>
+  </g>
+
+  <!-- voice equaliser: wake word "Computadora" -->
+  <g transform="translate(860 90)">
+    <rect x="-20" y="-20" width="270" height="120" rx="18" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+    <rect class="bar"    x="10"  y="0" width="14" height="60" rx="7" fill="#ffffff"/>
+    <rect class="bar b2" x="34"  y="0" width="14" height="60" rx="7" fill="#E6E1FF"/>
+    <rect class="bar b3" x="58"  y="0" width="14" height="60" rx="7" fill="#BFD9FF"/>
+    <rect class="bar b4" x="82"  y="0" width="14" height="60" rx="7" fill="#E6E1FF"/>
+    <rect class="bar b5" x="106" y="0" width="14" height="60" rx="7" fill="#ffffff"/>
+    <text x="134" y="28" fill="#ffffff" class="t" font-size="15" font-weight="700">"Computadora"</text>
+    <text x="134" y="50" fill="#BFD9FF" class="t" font-size="13">voice · es-PE</text>
+    <text x="10" y="88" fill="#BFD9FF" class="s" font-size="11">SCROLL · CLICK · DICTATE</text>
+  </g>
+
+  <!-- kinetic mouse cursor with dwell ring -->
+  <g transform="translate(1110 250)">
+    <g class="cursor">
+      <circle class="ring" cx="4" cy="4" r="18" fill="none" stroke="#ffffff" stroke-width="3"/>
+      <path d="M0 0 L0 26 L7 19 L12 30 L17 28 L12 17 L22 17 Z" fill="#ffffff" stroke="#2A1B5E" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
