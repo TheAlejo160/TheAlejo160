@@ -1,353 +1,265 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7F52FF&height=180&section=header&text=The_Alejo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
-  
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=800&lines=Software+%26+Electronic+Engineering;Fullstack+Web+%26+Mobile+Developer;Cloud+%26+Backend+Architect;Bilingual+(EN%2FES)+Developer" alt="Typing SVG" />
-  
-  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00C2FF&height=200&section=header&text=Rodrigo%20Alejandro%20Apcho&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=The_Alejo%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-  <a href="#"><img src="https://img.shields.io/badge/B.S._Software_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Academic" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/B.S._Electronic_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Academic" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-Lima,_Peru-0D1117?style=for-the-badge&logo=googlemaps&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Location" /></a>
-  
-  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=7F52FF&center=true&vCenter=true&width=820&lines=Creator+of+AdaptaPE+%E2%80%94+accessibility+made+in+Peru+%F0%9F%87%B5%F0%9F%87%AA;AI+Integration+%C2%B7+LLMs+%C2%B7+Computer+Vision+%C2%B7+Voice;Full-Stack+Web+%C2%B7+Native+iOS+%26+Android+%C2%B7+Desktop;HomeLab+%C2%B7+Linux+%C2%B7+IoT+%C2%B7+Hardware+Repair" alt="Typing SVG" />
 
-  <a href="https://www.thealejo-dev.cc/"><img src="https://img.shields.io/badge/Portfolio-www.thealejo--dev.cc-0D1117?style=for-the-badge&logo=dev.to&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Portfolio" /></a>
-  <a href="mailto:thealejodeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Email" /></a>
-  <a href="https://github.com/TheAlejo160"><img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="GitHub" /></a>
+  <br/>
 
-  <br/><br/>
+  <a href="https://www.adaptape.cc/"><img src="https://img.shields.io/badge/AdaptaPE-adaptape.cc-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AdaptaPE" /></a>
+  <a href="https://www.thealejo-dev.cc/"><img src="https://img.shields.io/badge/Portfolio-thealejo--dev.cc-0D1117?style=for-the-badge&logo=vercel&logoColor=7F52FF" alt="Portfolio" /></a>
+  <a href="mailto:thealejodeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=7F52FF" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Lima,_Peru-0D1117?style=for-the-badge&logo=googlemaps&logoColor=7F52FF" alt="Location" />
 
-  <img src="https://komarev.com/ghpvc/?username=TheAlejo160&label=Profile%20Views&color=7F52FF&style=for-the-badge&base=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TheAlejo160?label=Followers&style=for-the-badge&color=1A1B26&labelColor=0D1117&logo=github&logoColor=7F52FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/TheAlejo160?label=Stars&style=for-the-badge&color=1A1B26&labelColor=0D1117&logo=apachespark&logoColor=7F52FF" alt="Stars" />
-  
-  <br/><br/>
+  <br/>
+
+  <img src="https://img.shields.io/badge/Status-Open_to_internships_%26_roles-2EA043?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=TheAlejo160&label=Profile%20views&color=7F52FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TheAlejo160?label=Followers&style=flat-square&color=7F52FF" alt="Followers" />
 </div>
 
 ---
 
-## 👨‍💻 About / Sobre mí
+## 👨‍💻 About me / Sobre mí
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🇺🇸 English**
+
+Software Engineering student from Lima, Peru, building **real products that ship**. I integrate **AI into software** — LLMs, multimodal vision and speech — and I work across the whole stack: web, native iOS/Android, desktop apps and my own Linux **HomeLab**.
+
+My main project is **[AdaptaPE](https://www.adaptape.cc/)**, an accessibility suite that lets people with visual or motor difficulties use their browser and PC with **voice, colors and body movement**.
+
+I also tinker with **electronics**: ESP32/Arduino prototypes and hands-on repair of PCBs, iPhones, consoles and controllers.
+
+</td>
+<td width="50%" valign="top">
+
+**🇪🇸 Español**
+
+Estudiante de Ingeniería de Software en Lima, Perú, construyendo **productos reales en producción**. Integro **IA en software** — LLMs, visión multimodal y voz — y trabajo en todo el stack: web, apps nativas iOS/Android, escritorio y mi propio **HomeLab** Linux.
+
+Mi proyecto principal es **[AdaptaPE](https://www.adaptape.cc/)**, una suite de accesibilidad que permite usar el navegador y la PC con **voz, colores y movimiento del cuerpo** a personas con dificultades visuales o motoras.
+
+También trabajo con **electrónica**: prototipos ESP32/Arduino y reparación de PCBs, iPhones, consolas y mandos.
+
+</td>
+</tr>
+</table>
+
+```yaml
+focus:      [AI + Vision, Multiplatform apps, Self-hosted infra, IoT & Hardware]
+open_to:    [Internships, Software / Full-Stack roles, Native mobile, Freelance, Open Source]
+languages:  [Español (native), English]
+next:       Data Science & AI Engineering
+```
+
+---
+
+## ⭐ Flagship project — AdaptaPE
 
 <div align="center">
-  <i>Selecciona tu idioma / Select your language:</i><br>
-  <a href="#-español">🇪🇸 Español</a> • <a href="#-english">🇺🇸 English</a>
-</div>
-
-<br/>
-
-### 🇺🇸 English
-I am a **Software and Electronic Engineering** student operating at the intersection of complex hardware and high-performance software. With a rigorous focus on **Backend, Mobile, and Web Development**, I architect enterprise-grade, multipurpose platforms and native mobile ecosystems. My engineering philosophy revolves around pure logic, system optimization, and product-minded development—building robust infrastructures from the Linux kernel/HomeLab level up to seamless UI/UX endpoints. Beyond traditional full-stack development, I possess applied expertise in hardware integrations, utilizing Python and embedded systems (ESP32/Arduino) to deploy automated, data-driven solutions and complex mechanical architectures.
-
-### 🇪🇸 Español
-Soy estudiante de **Ingeniería de Software e Ingeniería Electrónica**, operando en la intersección entre hardware complejo y software de alto rendimiento. Con un enfoque riguroso en **Desarrollo Backend, Móvil y Web**, diseño plataformas empresariales multipropósito y ecosistemas móviles nativos. Mi filosofía de ingeniería se centra en la lógica pura, la optimización de sistemas y el desarrollo orientado a productos, construyendo infraestructuras robustas desde el nivel del kernel de Linux/HomeLab hasta los endpoints de UI/UX. Más allá del desarrollo full-stack tradicional, poseo experiencia aplicada en la integración de hardware, utilizando Python y sistemas integrados (ESP32/Arduino) para implementar soluciones automatizadas basadas en datos y arquitecturas mecánicas complejas.
-
-<br/>
-
-> **Open To / Abierto a:** Software Engineering Roles, Full Stack Development, Native Mobile Architecture (iOS/Android), HomeLab/Cloud Infrastructure Projects, and Open Source Contributions.
-
----
-
-## ⚙️ Tech Stack
-
-<br/>
-
-### Languages (Backend, Mobile & Systems)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,ts,js,swift,kotlin,bash&theme=dark" alt="Languages" />
+  <a href="https://www.adaptape.cc/">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F52FF,100:00C2FF&height=110&text=AdaptaPE&fontSize=48&fontColor=ffffff&desc=Internet%20es%20para%20todos.%20Nada%20deber%C3%ADa%20limitarte.&descAlignY=78&descSize=16&fontAlignY=40&animation=twinkling" width="85%" alt="AdaptaPE" />
   </a>
-</p>
-
-### Frontend Web Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend" />
-  </a>
-</p>
-
-### Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,sqlite,mysql,postgres,firebase&theme=dark" alt="Backend and Databases" />
-  </a>
-</p>
-
-### Cloud, DevOps, Tooling & Hardware
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows,git,github,maven,gradle,arduino,godot&theme=dark" alt="DevOps and Tools" />
-  </a>
-</p>
-
-### IDEs & Workspaces
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm" />
-  <img src="https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white" alt="CLion" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Python-Antigravity-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Antigravity" />
-</p>
-
-<br/>
-
----
-
-## 🧠 AI / ML & Logic Expertise
-
-<br/>
-
-| Domain | Proficiency | Details (EN / ES) |
-| :--- | :--- | :--- |
-| **Algorithmic Logic** | Advanced | Implementation of predictive reaction systems and complex state machines. / *Implementación de sistemas de reacción predictiva.* |
-| **Embedded Systems** | Intermediate | Sensor data processing and automated logic via ESP32/Arduino microcontrollers. / *Procesamiento de datos con microcontroladores.* |
-| **Data Architecture** | Advanced | Structuring datasets using SQLite/NoSQL for high-speed query optimization. / *Estructuración y optimización de bases de datos.* |
-| **Python Scripting** | Advanced | Automation, data parsing, backend integration, and utilizing libraries (Antigravity). / *Automatización, análisis e integración.* |
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<br/>
-
-<details>
-  <summary><b>☁️ TheAlejoCloud (Native Mobile & Cloud Storage Ecosystem)</b></summary>
-  <br/>
-  
-  A cloud storage and management ecosystem featuring separate, fully native mobile applications. Designed for HomeLab environments or as a foundation for enterprise-scale projects, it connects directly to a home server running Linux with CasaOS and FileBrowser.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Swift (iOS), Kotlin (Android), Linux, CasaOS, HomeLab |
-  | **Scale** | HomeLab to Enterprise Architecture |
-  | **Performance** | High-efficiency native mobile compilation |
-  | **Security** | Multi-user Auth & Isolated Directory Deployment |
-  | **Impact** | Seamless cross-platform self-hosted cloud management |
-  | **Repository** | [Private / Enterprise Request](#) |
-
-  *Professional Detail:* Engineered the complete pipeline from the underlying Linux server infrastructure to the native frontend clients. Handled raw REST API integrations, socket management, and asynchronous data streaming to ensure zero-latency file access and multi-user scaling.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🌐 Family Hub (Fullstack HomeLab Platform)</b></summary>
-  <br/>
-  
-  A centralized web platform developed for HomeLab environments. It functions as a modern, intuitive family ecosystem to manage finances, tasks, calendars, and direct accesses to local NAS server services.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Next.js, React, Tailwind CSS, TypeScript, HomeLab |
-  | **Scale** | Local Area Network / Zero-Trust Access |
-  | **Performance** | SSR and static site generation for instant local loading |
-  | **Security** | Localized data retention and encrypted internal routing |
-  | **Impact** | Digitized and automated daily domestic management |
-  | **Repository** | [Private / Internal Architecture](#) |
-
-  *Professional Detail:* Utilized Next.js and TypeScript to build a highly responsive and type-safe frontend. Integrated custom dashboard widgets mapping directly to NAS APIs to monitor server health alongside family calendar events and finance tracking.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>⚔️ TeroGenshin (Advanced Java Combat Engine)</b></summary>
-  <br/>
-  
-  A highly optimized backend plugin for Minecraft (1.17 - 1.19.4) that fundamentally rewrites core engine mechanics to recreate the elemental reaction system from Genshin Impact.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Java, Spigot/Paper API, OOP, Genshin Mechanics |
-  | **Scale** | Massive Multiplayer Server Integration |
-  | **Performance** | O(1) Memory caching for elemental particle ticks |
-  | **Security** | Anti-exploit hit registration verification |
-  | **Impact** | Revolutionized PvP/PvE combat mechanics for thousands of players |
-  | **Repository** | [View Implementation](#) |
-
-  *Professional Detail:* Developed complex algorithmic matrices to handle multi-threaded entity state changes without disrupting the main server tick thread. Applied predictive physics calculations for particle rendering and elemental state compounding.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🏰 TempleCraft Network (Server Architect & Lead Developer)</b></summary>
-  <br/>
-  
-  Comprehensive infrastructure deployment, custom software development, and community management for large-scale gaming networks.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Server Management, Java, Networking, Linux |
-  | **Scale** | Multi-node proxy network |
-  | **Performance** | Automated load balancing and GC optimization |
-  | **Security** | DDoS mitigation & strict packet filtering |
-  | **Impact** | Sustained high-concurrency player bases with 99.9% uptime |
-  | **Repository** | [Proprietary](#) |
-
-  *Professional Detail:* Acted as the Lead DevOps Engineer and Systems Architect. Designed the entire CI/CD pipeline for plugin updates, managed secure database clusters, and wrote bespoke software to handle unique gamemode logic, resulting in highly profitable and stable network environments.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🔌 Infraestructura IoT & Automatización (Hardware Engineering)</b></summary>
-  <br/>
-  
-  Design and development of automation prototypes using Arduino and ESP32 microcontrollers. Integration with domestic servers, logic circuit design, and general hardware maintenance.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Arduino, ESP32, Circuits, HomeLab, Hardware Repair |
-  | **Scale** | Embedded Systems & IoT |
-  | **Performance** | Low-latency serial communication & power efficiency |
-  | **Security** | Encrypted local payload transmission |
-  | **Impact** | Bridged physical hardware controllers with cloud/HomeLab logic |
-  | **Repository** | [Hardware Schematics Request](#) |
-
-  *Professional Detail:* Implemented bare-metal C/C++ firmware to read analog sensor inputs and process them through digital filters before transmitting via MQTT/WebSockets to a centralized HomeLab dashboard.
-</details>
-
-<br/>
-
----
-
-## 💼 Experience
-
-<br/>
-
-| Job Title / Role | Company / Network | Date Range |
-| :--- | :--- | :--- |
-| **Freelance Software Developer** | Independent Client Contracts | *Ongoing* |
-| **Lead Developer & Owner** | TempleCraft Network | *Previous* |
-| **Co-Owner & Systems Architect** | TeroCraft Network | *Previous* |
-| **Technical Config / Developer** | ComuGamers | *Previous* |
-
-<br/>
-
-**Professional Scope of Work (Freelance Developer):**
-*   Architect and develop custom, modern web applications from UI/UX design to robust backend logic.
-*   Deploy native iOS (Swift) and Android (Kotlin) solutions optimized for memory efficiency and UX.
-*   Manage Linux-based deployment environments, CI/CD pipelines, and NAS/HomeLab hardware configurations.
-*   Design and repair complex electronic PCBs, providing micro-soldering and hardware component upgrades.
-
-**Skills:** `Fullstack Web` `Native Mobile Apps` `Systems Administration` `Java/C++` `IoT & Hardware`
-
-<br/>
-
----
-
-## 🏆 Achievements
-
-<br/>
-
-| Recognition | Details (EN / ES) |
-| :---: | :--- |
-| 🌟 **System Architecture** | Built a fully functional, self-hosted cloud ecosystem supporting native cross-platform clients. / *Creación de ecosistema en la nube self-hosted con clientes nativos.* |
-| ⚙️ **Hardware Mastery** | Designed custom ESP32/Arduino prototypes and executed advanced PCB electronic repairs. / *Prototipado ESP32/Arduino y reparación avanzada de PCBs.* |
-| 📈 **Performance Tuning** | Maintained 20TPS (maximum efficiency) on highly saturated Java game servers using custom garbage collection flags and multi-threading algorithms. / *Optimización de servidores Java al máximo rendimiento.* |
-
-<br/>
-
----
-
-## 📜 Certifications
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-0D1117?style=for-the-badge&logo=amazonaws&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle-Java_SE_Developer-0D1117?style=for-the-badge&logo=oracle&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Oracle" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/NPTEL-Software_Engineering-0D1117?style=for-the-badge&logo=swiggy&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Cisco-Network_Fundamentals-0D1117?style=for-the-badge&logo=cisco&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="Cisco" />
+  <a href="https://www.adaptape.cc/"><img src="https://img.shields.io/badge/Website-adaptape.cc-7F52FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://adaptape.thealejo-dev.cc/"><img src="https://img.shields.io/badge/Download_%26_Demo-Try_it-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download" /></a>
+  <a href="https://github.com/TheAlejo160/Adapta-PE"><img src="https://img.shields.io/badge/Source-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Chrome_%7C_Edge-supported-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chromium" />
+  <img src="https://img.shields.io/badge/Windows_x64-supported-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS_Intel_%2B_Apple_Silicon-supported-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Linux-in_progress-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 <br/>
 
+**Accessibility suite made in Peru** for people with visual, motor or involuntary-movement difficulties. Software Engineering thesis project, **in production** as a browser extension (Chrome Web Store) and desktop app. I'm the **creator & lead developer**.
+
+| Feature | What it does |
+| :--- | :--- |
+| 🎙️ **Voice assistant (es-PE)** | Wake word *"Computadora"* → scroll, search, click, dictate, zoom, control tabs. Browser or local speech mode. |
+| 🎨 **7 color-blind filters** | Protan/deuter/tritan (‑anomaly and ‑anopia) + achromatopsia, built with SVG color matrices. |
+| 🔊 **Contextual reader (TalkBack)** | Reads buttons and links on hover or Tab with local Spanish voices. |
+| 🖱️ **Kinetic Mouse** | Moves the pointer with the camera: head/torso, arms/hands/fists or residual limb. **Frames are processed locally, never stored or sent.** |
+| 🫱 **Gestures** | Point to move, fist to stop, pinch for left/right click, open mouth to click. |
+| 🧘 **Motion stabilization** | Smoothing + central dead zone to reduce small involuntary movements and tremors. |
+| ⏱️ **Dwell Click** | Clicks after holding still on a target for 1 second. |
+
+```mermaid
+flowchart LR
+    U([User]) -->|voice| V[Speech engine<br/>es-PE]
+    U -->|camera| K[Local vision<br/>pose · hands · mouth]
+    V --> C{AdaptaPE core}
+    K --> S[Stabilization<br/>smoothing + dead zone] --> C
+    C --> W[Chrome / Edge<br/>extension]
+    C --> D[Desktop app<br/>Windows C#/WPF · macOS Swift]
+    D -.optional.-> AI[NVIDIA NIM /<br/>LLM APIs]
+```
+
+**Stack:** `C#/WPF` `Swift` `Apple Vision` `JavaScript` `Chrome Extensions (MV3)` `Web Speech API` `SVG filters` `NVIDIA NIM` `Cloudflare`
+
+**Ecosystem:** 8-lesson interactive tutorial · live demo · mascots (Tinku, Cuchu, Yati) · enterprise licensing for institutions and hospitals · collaborations with AnatoMix3D and Psicogame.
+**Research roadmap:** local AI (AdaptaPE‑AI), *Ojo Biónico* computer vision, eye tracking and EEG brain-computer interfaces.
+
 ---
 
-## 💻 Coding Profiles
+## 🚀 Other projects
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ TheAlejoCloud
+Private cloud with **native iOS and Android apps** connected to my Linux server. Multi-user file access to a self-hosted HomeLab.
+
+`Swift` `SwiftUI` `Kotlin` `Linux` `CasaOS` `FileBrowser` `Cloudflare Tunnels`
+
+[![Repo](https://img.shields.io/badge/iOS_repo-0D1117?style=flat-square&logo=github)](https://github.com/TheAlejo160/TheAlejoCloud-iOS)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Family Hub
+Full-stack home dashboard: finances, tasks, calendars and shortcuts to NAS services, running 24/7 on my HomeLab.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `SQLite` `PM2`
+
+[![Live](https://img.shields.io/badge/thealejo--dev.cc-0D1117?style=flat-square&logo=vercel)](https://www.thealejo-dev.cc/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ TeroGenshin (GenshinMode)
+Minecraft plugin (1.17 → 1.19.4+) that recreates **Genshin Impact elemental reactions**: concurrent elemental states, RPG combat and multi-language support. Published on SpigotMC.
+
+`Java` `Spigot/Paper API` `OOP` `Concurrency` `Maven`
+
+[![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github)](https://github.com/TheAlejo160/TeroGenshin)
+
+</td>
+<td width="50%" valign="top">
+
+### 🪙 TeroCoinFlip
+Betting & economy plugin for Paper servers with GUI menus, **race-condition protection** and persistent data.
+
+`Java` `Paper API` `Vault API` `Async I/O` `Maven`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏰 TempleCraft · TeroCraft · ComuGamers
+Founder / co-owner and technical lead of multiplayer server networks: self-hosted on Linux, custom Java plugins, JVM memory tuning, scheduled tasks and game balance.
+
+`Java` `Linux` `JVM tuning` `Networking` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 IoT & Hardware Lab
+C++ prototypes on **ESP32/Arduino** (incl. Bluetooth HID controller emulation) integrated with my server. Diagnosis and repair of **PCBs, iPhones, consoles and controllers**.
+
+`ESP32` `Arduino` `C++` `Bluetooth HID` `PCB diagnostics`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,swift,kotlin,cs,cpp,c,python,html,css,bash&theme=dark" alt="Languages" />
+</p>
+
+**Web, mobile & desktop**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,vite,androidstudio,godot&theme=dark" alt="Frameworks" />
+  <br/>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/C%23_WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/Paper_%2F_Spigot_API-0D1117?style=flat-square&logo=minecraft&logoColor=white" alt="Paper API" />
+</p>
+
+**AI & data**
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
+  <img src="https://img.shields.io/badge/LLaMA_Vision-0467DF?style=flat-square&logo=meta&logoColor=white" alt="LLaMA Vision" />
+  <img src="https://img.shields.io/badge/Apple_Vision-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Vision" />
+  <img src="https://img.shields.io/badge/Speech_STT%2FTTS_(es--PE)-7F52FF?style=flat-square&logo=googleassistant&logoColor=white" alt="Speech" />
+  <img src="https://img.shields.io/badge/LLM_APIs_%26_Prompting-0D1117?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <br/>
+  <sub>Learning: Python · pandas · NumPy · scikit-learn · Jupyter</sub>
+</p>
+
+**Databases, infra & hardware**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,linux,cloudflare,git,github,maven,gradle,arduino&theme=dark" alt="Infra" />
+  <br/>
+  <img src="https://img.shields.io/badge/CasaOS-0D1117?style=flat-square&logo=linux&logoColor=white" alt="CasaOS" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Electronics_Repair-0D1117?style=flat-square&logo=raspberrypi&logoColor=white" alt="Electronics" />
+</p>
+
+**Tools & OS**
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,apple,windows&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+</p>
+
+---
+
+## 📊 GitHub stats
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Solver-0D1117?style=for-the-badge&logo=leetcode&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="GFG" /></a>
-  <br/><br/>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-0D1117?style=for-the-badge&logo=hackerrank&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Advanced_Division-0D1117?style=for-the-badge&logo=codechef&logoColor=7F52FF&labelColor=0D1117&color=1A1B26" alt="CodeChef" /></a>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=TheAlejo160&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&icon_color=00C2FF" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=TheAlejo160&hide_border=true&background=0D1117&ring=7F52FF&fire=00C2FF&currStreakNum=A9B1D6&sideLabels=7F52FF&dates=A9B1D6&currStreakLabel=7F52FF" alt="GitHub Streak" />
+  <br/>
 </div>
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<br/>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TheAlejo160&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6&icon_color=7F52FF" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=TheAlejo160&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakNum=A9B1D6&sideLabels=7F52FF&dates=A9B1D6&currStreakLabel=7F52FF" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheAlejo160&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A9B1D6" alt="Top Languages" />
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAlejo160&bg_color=0D1117&color=A9B1D6&line=7F52FF&point=FFFFFF&area=true&hide_border=true&title_color=7F52FF" alt="Activity Graph" />
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAlejo160/TheAlejo160/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAlejo160/TheAlejo160/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheAlejo160/TheAlejo160/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TheAlejo160/TheAlejo160/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br/>
-
 ---
 
-## 🎯 Current Focus
-
-<br/>
+## 🎯 Right now
 
 ```yaml
-Current_Status:
-  Learning: 
-    - "Advanced Machine Learning architectures (Python)"
-    - "Deep-level iOS reverse engineering (Swift)"
-  Building: 
-    - "Enterprise-scale native mobile cloud platforms"
-    - "HomeLab microservices running on custom Linux kernels"
-  Exploring:
-    - "Complex data structures in C/C++"
-    - "Embedded systems optimization (IoT)"
-  Open_To:
-    - "Full-time Software Engineering roles"
-    - "High-impact Open Source collaboration"
-    - "Freelance architectural consulting"
+building:
+  - AdaptaPE Pro & Linux client
+  - AdaptaPE-AI (local AI) and "Ojo Biónico" computer vision research
+learning:
+  - Data Science & ML with Python
+  - Advanced native iOS (Swift / SwiftUI)
+looking_for:
+  - Internships and Software / Full-Stack roles
+  - Freelance projects — web, mobile, AI integration
+  - Open Source collaboration on accessibility
+```
+
+<div align="center">
+  <br/>
+  <b>Let's build something that adapts to people. / Construyamos tecnología que se adapte a las personas.</b>
+  <br/><br/>
+  <a href="mailto:thealejodeveloper@gmail.com"><img src="https://img.shields.io/badge/Hire_me_%2F_Contr%C3%A1tame-7F52FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F52FF&height=110&section=footer" width="100%" alt="Footer" />
+</div>
